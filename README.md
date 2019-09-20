@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ssavvanis0515/pipilines-java/_apis/build/status/savvaniss.pipelines-java?branchName=master)](https://dev.azure.com/ssavvanis0515/pipilines-java/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
